@@ -50,8 +50,9 @@ body {
 }
 
 .jumbotron .btn {
-    font-size: 21px;
+    font-size: 20px;
     padding: 14px 24px;
+    color: black;
 }
 
 /* Supporting marketing content */
